@@ -1,0 +1,13 @@
+# Windows system files
+System Volume Information/
+$RECYCLE.BIN/
+Thumbs.db
+desktop.ini
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS X junk
+.DS_Store
